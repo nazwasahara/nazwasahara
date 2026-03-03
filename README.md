@@ -40,7 +40,9 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasahara&theme=tokyonight)
 
-![snake gif](https://raw.githubusercontent.com/nazwasahara/nazwasahara/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/nazwasahara/nazwasahara/blob/output/snake.svg?raw=true" />
+</p>
 
 
 ## 🌐 Social Media & Contact
