@@ -44,15 +44,15 @@
 
 ## 📊 GitHub Stats
 
-![Nazwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazwasahara&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nazwasahara&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwasahara&layout=compact&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasahara&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/nazwasahara/nazwasahara/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/nazwasahara/nazwasahara/output/github-contribution-grid-snake.svg)
 
 ---
 
