@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me
-> I'm Nazwa Sahara Harahap, an Information Technology student from the University of North Sumatra (Class of 2024). I’m passionate about UI/UX and web development, currently exploring Figma and Laravel to strengthen my skills. I’m deeply interested in building impactful digital solutions and believe that technology should solve real-world problems.  
+> I'm Nazwa Sahara Harahap, an Information Technology student from the University of North Sumatra (Class of 2024). I’m passionate about UI/UX and Web Development, currently exploring Figma and Laravel to strengthen my skills. I’m deeply interested in building impactful digital solutions and believe that technology should solve real-world problems.  
 
 
 ## 💻 My Skills
@@ -40,10 +40,7 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasahara&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github.com/nazwasahara/nazwasahara/blob/output/snake.svg?raw=true" />
-</p>
-
+<img src="https://github.com/nazwasahara/nazwasahara/blob/output/snake.svg?raw=true" />
 
 ## 🌐 Social Media & Contact
 
