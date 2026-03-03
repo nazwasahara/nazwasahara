@@ -8,16 +8,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=A084E8&size=30&center=true&vCenter=true&width=800&lines=You+can+call+me+Raily!;Future+Fullstack+Developer;Building+with+Passion" />
 </p>
 
----
 
-## 🚀 I'm Nazwa Sahara Harahap
-🎓 Information Technology Student class of 2024, University of North Sumatra  
-💡 Passionate about UI/UX & Web Development  
-🌱 Currently learning **Figma & Laravel**  
-🎯 Interested in building impactful digital solutions  
-✨ I believe technology should solve real-world problems  
+## 🚀 About Me
+> I'm Nazwa Sahara Harahap, an Information Technology student from the University of North Sumatra (Class of 2024). I’m passionate about UI/UX and web development, currently exploring Figma and Laravel to strengthen my skills. I’m deeply interested in building impactful digital solutions and believe that technology should solve real-world problems.  
 
----
 
 ## 💻 My Skills
 
@@ -30,7 +24,6 @@
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 
----
 
 ## 🛠️ My Tools
 
@@ -40,7 +33,6 @@
 ### 👩🏻‍💻 Development Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
----
 
 ## 📊 GitHub Stats
 
@@ -48,13 +40,8 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasahara&theme=tokyonight)
 
----
-
-## 🐍 Contribution Snake
-
 ![snake gif](https://raw.githubusercontent.com/nazwasahara/nazwasahara/output/github-contribution-grid-snake.svg)
 
----
 
 ## 🌐 Social Media & Contact
 
@@ -74,8 +61,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
 
 ## ✨ Personal Motto
 
-> "Code is not just syntax. It is a tool to create impact."
+> "Building impactful digital solutions with creativity and code."
